@@ -1,0 +1,44 @@
+  .Btn1
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .class1
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+  }
+  .btn2
+  {
+    font-size: 18px ;
+  }
+  .btn3,.btn4
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  
+  .copy_right_footer
+  {
+    background-color: cadetblue;
+    width: 100%;
+    position:fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    color: whitesmoke;
+  }
+
+ canvas
+ {
+   border: 5px dashed aquamarine;
+   margin-top: 200px;
+   border-radius: 99px;
+   box-shadow: 5px 5px 11px black;
+ }
